@@ -14,3 +14,5 @@ vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMzguMTgwLjIwNC4xNTYiLCJhZGQiOiIzOC4xODAu
 
 订阅链接：
 https://hongxingdl.love/hxyunvip?token=8342de6b4cf2c0047172c346cb9dd795
+
+wss://chainstream.api.syndica.io/api-key/yFPkeHZwYqx1PuyS326yVYhpQGgeqJaxq5Dtu9pzLVXNN1pF8BrDSp7bPycHAUKEAPfs3PNzLU7NF4TBQt32LWdAxZKLc67fx
